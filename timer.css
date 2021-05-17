@@ -6,7 +6,7 @@ h1{
     width: 300px;
     height:200px;
     border-radius:25px;
-    background-color:rgb(182, 212, 182);
+    background-color:rgba(58, 53, 53, 0.952);
     border:1px solid gray;
     position:absolute;
 }  
@@ -15,7 +15,7 @@ h1{
     height:80px;
     position:relative;
     border-radius:25px;
-    background-color:rgb(199, 193, 193);
+    background-color:rgb(235, 227, 227);
     border:1px solid gray;
     top:30px;
     left:50px;
@@ -32,7 +32,7 @@ p{
     top:60px;
     left:20px;
     border-radius:25px;
-    background-color:gray;
+    background-color: gray;
     border:1px solid gray;
     font-size:large;
     position:relative;
